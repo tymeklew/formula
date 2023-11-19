@@ -9,3 +9,4 @@ Sub y = 5 into it
 x + 5 = 10
 x = 5
 But thats later as well as quadratics and stuff like that and maybe even simultanius equations
+Also want to add stuff so you can parse equations from string and also maybe a macro for some cool stuff
